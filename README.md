@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Borewit/mstream-http-range-client.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Borewit/mstream-http-range-client/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Borewit/mstream-http-range-client.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Borewit/mstream-http-range-client/context:javascript)
+
 # mstream-http-range-client
 
 An HTTP client, testing HTTP range requests against the [mStream media server](https://github.com/IrosTheBeggar/mStream).
